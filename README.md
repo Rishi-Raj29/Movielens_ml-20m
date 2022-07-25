@@ -11,7 +11,7 @@ Dataset - https://files.grouplens.org/datasets/movielens/ml-20m.zip
 
 •             Use appropriate data warehouse modelling to scale and accommodate 100 million records
 
-•             Develop an API service to
+•             Develop an API service to:
 
 		o             Retrieve movies and details based on the genres, year range and rating
 
